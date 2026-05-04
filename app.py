@@ -10,3 +10,11 @@ summary = summarize_note(note)
 
 print("\n🔹 Category:", category)
 print("🔹 Summary:", summary)
+if __name__ == "__main__":
+    text = input("Enter your note: ")
+
+    category = classify_note(text)
+    summary = summarize_note(text)
+
+    print("\nCategory:", category)
+    print("Summary:", summary)
