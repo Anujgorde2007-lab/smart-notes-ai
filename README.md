@@ -31,7 +31,9 @@ This project demonstrates how basic text processing techniques can be applied to
 
 - 🧩 Modular Code Structure
   Easy to expand and upgrade
-
+  
+- 🧪 Simple CLI-based user interaction
+  
 ---
 
 🤖 How It Works
