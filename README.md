@@ -1,5 +1,11 @@
 # 🧠 Smart Notes AI
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![AI](https://img.shields.io/badge/AI-Smart%20Notes-green)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 An AI-inspired smart notes organizer built using Python.  
 This project helps users create, organize, classify, and manage notes efficiently using rule-based AI concepts and smart categorization techniques.
 
