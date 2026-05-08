@@ -89,7 +89,7 @@ python ai_note_classifier.py
 
 ## 🖥 Smart Notes AI Dashboard
 
-![Smart Notes AI Dashboard](screenshots/smart-notes-dashboard.png)
+![Smart Notes AI Dashboard](smart-notes-dashboard.png)
 
 ---
 
